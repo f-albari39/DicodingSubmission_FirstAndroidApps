@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dicoding Submission</string>
+    <string name="nama_programming_language">Programming Language</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="content_desc_img_logo">img_programming_language_logo</string>
+    <string name="detail_title">Title</string>
+    <string name="detail_description">Description</string>
+    <string name="creator_name">Fakhri Albari</string>
+    <string name="creator_email">fakhrialbari1239@gmail.com</string>
+    <string name="about">About Me</string>
+    <string name="detail_favorite">Favorite</string>
+</resources>
